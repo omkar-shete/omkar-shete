@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Omkar..
 
 <h2>A frontend developer from India</h2>
-<h3></h3>
+<p>With the combination of design and tech, I intend to build products which are great mix of form and functionality.</p>
 
 - 🌱 I’m currently learning **React & JavaScript**
 
